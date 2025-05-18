@@ -19,7 +19,7 @@
 
 Также можно установить себе репозиторий через:
 
-```git clone https://github.com/aboburas228/keys_camp.git```
+```git clone https://github.com/rayGiks19/keys_camp.git```
 
 Скрипт 2: Тест сайта rosatom 
 
@@ -61,7 +61,7 @@
 
 Также установить себе репозиторий через:
 
-```git clone https://github.com/aboburas228/keys_camp.git```
+```git clone https://github.com/rayGiks19/keys_camp.git```
 
 Может потребоваться установка selenium:
 
